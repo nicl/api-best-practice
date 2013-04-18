@@ -21,8 +21,7 @@ Scala
 -----
 
 * JSON libraries
-*
-=======
+
 Bibliography
 ------------
 
