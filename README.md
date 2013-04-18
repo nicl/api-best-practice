@@ -22,3 +22,8 @@ Scala
 
 * JSON libraries
 *
+=======
+Bibliography
+------------
+
+Sauces deserve love. So do sources...
